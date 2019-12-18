@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-translate?activeTab=versions
 
+### [5.1.4](https://www.github.com/googleapis/nodejs-translate/compare/v5.1.3...v5.1.4) (2019-12-18)
+
+
+### Bug Fixes
+
+* increase timeout from 20s to 60s ([#411](https://www.github.com/googleapis/nodejs-translate/issues/411)) ([40241fe](https://www.github.com/googleapis/nodejs-translate/commit/40241fea93a2315eae8344c58a9ffed87392eda4))
+
 ### [5.1.3](https://www.github.com/googleapis/nodejs-translate/compare/v5.1.2...v5.1.3) (2019-12-16)
 
 
